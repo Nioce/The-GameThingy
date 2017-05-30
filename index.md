@@ -2,7 +2,10 @@
 
 The smile is a game worked on over several weeks made in python.
 
-
+## Levels
+Level 1, basic run level with some hidden blocks
+Level 2, Im falling....s
+Level 3, Insta win, never finished.
 
 
 ## How to Download THE SMILE
