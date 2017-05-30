@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# The Smile
 
-You can use the [editor on GitHub](https://github.com/Nioce/The-GameThingy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The smile is a game worked on over several weeks made in python.
+
+[editor on GitHub](https://github.com/Nioce/The-GameThingy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
