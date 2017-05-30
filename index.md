@@ -5,7 +5,7 @@ The smile is a game worked on over several weeks made in python.
 ## Levels
 Level 1, basic run level with some hidden blocks
 Level 2, Im falling....s
-Level 3, Insta win, never finished.
+Level 3, Insta win
 
 
 ## How to Download THE SMILE
@@ -34,6 +34,7 @@ You might need a few items that you dont have, so go buy these things if you don
 analog stick moves side to side (or key binded with DS4WINDOWs)
 A button jumps (or key binded with DS4WINDOWs)
 
-
+# HOW TO RUN
+** PLEASE OPEN IN IDEL THEN RUN **
 # Game Art
 ![Game](/assets/game.png)
