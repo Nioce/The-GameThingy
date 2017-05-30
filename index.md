@@ -2,6 +2,15 @@
 
 The smile is a game worked on over several weeks made in python.
 
+## How to Download THE SMILE
+
+Downloading this game isnt that hard and will be very easy for anyone, just follow these simple steps.
+
+1. Download the [game](https://github.com/Nioce/The-GameThingy/archive/master.zip)
+2. Extract Files into a folder
+3. Open the folder that says **Install this**
+4. Install the things inside said folder 
+
 [editor on GitHub](https://github.com/Nioce/The-GameThingy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
