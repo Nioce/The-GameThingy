@@ -1,0 +1,38 @@
+The Smile
+-------------------------------------------------------------------------
+The smile is a game worked on over several weeks made in python.
+
+
+
+Levels
+-------------------------------------------------------------------------
+Level 1, basic run level with some hidden blocks 
+Level 2, Im falling....s 
+Level 3, Insta win.
+
+
+
+HOW TO RUN
+-------------------------------------------------------------------------
+PLEASE START IN IDLE THEN RUN
+
+
+
+You might need a few items that you dont have, so go buy these things if you dont have them
+-------------------------------------------------------------------------
+XBOX or ps4 controller, is used PS4 controller please goto the PS4 controller section
+A cable or bluetooth device for your controller to connect to the computer
+PS4 Controller
+
+
+
+PS4 CONTROLLERS
+-------------------------------------------------------------------------
+You'll need a program called DS4WINDOWS
+You need to extract that and run with a cable or bluetooth connecting it to your computer.
+Controls
+
+
+HOW TO MOVE
+-------------------------------------------------------------------------
+analog stick moves side to side (or key binded with DS4WINDOWs) A button jumps (or key binded with DS4WINDOWs)
