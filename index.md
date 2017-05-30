@@ -2,6 +2,9 @@
 
 The smile is a game worked on over several weeks made in python.
 
+
+
+
 ## How to Download THE SMILE
 
 Downloading this game isnt that hard and will be very easy for anyone, just follow these simple steps.
@@ -11,38 +14,23 @@ Downloading this game isnt that hard and will be very easy for anyone, just foll
 3. Open the folder that says **Install this**
 4. Install the things inside said folder 
 
-[editor on GitHub](https://github.com/Nioce/The-GameThingy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What does one need to play this game
+You might need a few items that you dont have, so go buy these things if you dont have them
 
-### Markdown
+1. XBOX or ps4 controller, is used PS4 controller please goto the PS4 controller section
+2. A cable or bluetooth device for your controller to connect to the computer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PS4 Controller 
 
-```markdown
-Syntax highlighted code block
+1. You'll need a program called [DS4**WINDOWS**](https://github.com/Jays2Kings/DS4Windows/archive/jay.zip) 
+2. You need to extract that and run with a cable or bluetooth connecting it to your computer.
 
-# Header 1
-## Header 2
-### Header 3
+## Controls
 
-- Bulleted
-- List
+analog stick moves side to side (or key binded with DS4WINDOWs)
+A button jumps (or key binded with DS4WINDOWs)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nioce/The-GameThingy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Game Art
+![Game](/assets/game.png)
